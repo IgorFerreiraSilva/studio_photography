@@ -11,7 +11,7 @@ Imagens retiradas da internet.
 ## Imagens do projeto:
 
 <h1>
-    <img src="./img/img-projetos/1.png">
-    <img src="./img/img-projetos/2.png">
-    <img src="./img/img-projetos/3.png">
+    <img src="https://ik.imagekit.io/t3c9getulq/1_c7oX0Kyzz.PNG">
+    <img src="https://ik.imagekit.io/t3c9getulq/2_BV5d90w7d.PNG">
+    <img src="https://ik.imagekit.io/t3c9getulq/3_JV-iyvpMf.PNG">
 </h1>
